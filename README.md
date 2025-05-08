@@ -1,7 +1,7 @@
-(https://scontent.fdac96-2.fna.fbcdn.net/v/t39.30808-6/483506885_952607853693990_5749644073391108016_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeGlb8JzkcgzStDw34xQls9HzHVHfoiQmfvMdUd-iJCZ-y_GeSYB_FHdMEl8pfW16-ptXxvDcR9dewCsGzJBA85_&_nc_ohc=ASPtUhCaVn0Q7kNvwGxpSEQ&_nc_oc=AdnPjUnjdMS2PqVQmb5ZsDOULGdXWWGIXh-sydNUfth0luZnFdr0n4IwUYDmxa85ZYOkV4Ka4ZTNV9JMHepvAAVn&_nc_zt=23&_nc_ht=scontent.fdac96-2.fna&_nc_gid=WCDOqCA9bP_OLQcG5PuXNA&oh=00_AfKGSmLRcraICFes-yo0yYcUd21Ovoiw2MR2darTkcL2LQ&oe=682220BF)
+https://scontent.fdac96-2.fna.fbcdn.net/v/t39.30808-6/483506885_952607853693990_5749644073391108016_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeGlb8JzkcgzStDw34xQls9HzHVHfoiQmfvMdUd-iJCZ-y_GeSYB_FHdMEl8pfW16-ptXxvDcR9dewCsGzJBA85_&_nc_ohc=ASPtUhCaVn0Q7kNvwGxpSEQ&_nc_oc=AdnPjUnjdMS2PqVQmb5ZsDOULGdXWWGIXh-sydNUfth0luZnFdr0n4IwUYDmxa85ZYOkV4Ka4ZTNV9JMHepvAAVn&_nc_zt=23&_nc_ht=scontent.fdac96-2.fna&_nc_gid=Y-Ws-kJCBpR1htc4x5mFVA&oh=00_AfIq9RLIqUURl1JOjhoXvoK9EoxqLQpnzur16BDHHL_3nA&oe=682220BF
 ### Hi there 👋, I'm Rakibul Islam
 #### 👩🏻‍💻-I am Web Developer <br/>  ❤️ I love coding.
-![👩🏻‍💻-I am Web Developer  ❤️ I love coding.]
+
 
 🧑🏻‍💻- I am studying in the computer department at the polytechnic.
  I want to be a web developer, I am currently learning web development.❤️ I love coding.
